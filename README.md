@@ -1,12 +1,12 @@
 # jamebon123
 
 ![](https://komarev.com/ghpvc/?username=jamebon123&label=Profile%20Views&color=555555&style=flat)
-![](https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white)
-![](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=lua&logoColor=white)
-![](https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white)
+![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 yo  
-i script for roblox, mostly lua/luau. ui stuff, stat trackers, random tools. some of it works, some of it doesnt, idk also kinda into ai automation rn
+i code in c++, python and html. building desktop apps, random tools, and kinda into ai automation rn
 
 ### stuff i use
 ![](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
@@ -19,11 +19,9 @@ yea i let ai write a lot of it, so what
 
 ### stuff i made
 
-#### roblox
-- **[roblox-account-generator](https://github.com/jamebon123/roblox-account-generator)** - account generator for roblox
-
-#### tools & projects
-- **[dynamic-island-for-windows](https://github.com/jamebon123/dynamic-island-for-windows)** - dynamic island for windows
+#### desktop & tools
+- **[dynamic-island-for-windows](https://github.com/jamebon123/dynamic-island-for-windows)** - dynamic island for windows (c++)
+- **[roblox-account-generator](https://github.com/jamebon123/roblox-account-generator)** - account generator for roblox (python)
 
 ### faq
 - **does it work?** yeah
